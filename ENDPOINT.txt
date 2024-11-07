@@ -1,0 +1,3 @@
+http://localhost:8080/Mariskpet/procesarFormulario(Link arrojado al momento de darle Run File a NetBeans)
+
+http://localhost:8080/Mariskpet/procesarFormulario (Link pegado a Postman)
